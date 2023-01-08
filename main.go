@@ -5,10 +5,10 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/urfave/cli"
 	"github.com/rameshvarun/ups/operations"
 	"github.com/rameshvarun/ups/reader"
 	"github.com/rameshvarun/ups/writer"
+	"github.com/urfave/cli/v2"
 )
 
 func main() {
